@@ -34,3 +34,4 @@ Vagrant.configure("2") do |config|
      apt-get install -y git wget vim 
    SHELL
   end
+end
